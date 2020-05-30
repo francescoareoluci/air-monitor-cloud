@@ -1,0 +1,15 @@
+{
+  "name": "air-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-functions-core-tools": "^2.7.2100",
+    "react-router-dom": "^5.1.2"
+  }
+}
